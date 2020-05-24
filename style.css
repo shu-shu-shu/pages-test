@@ -1,4 +1,8 @@
-p {
+.title {
     color: rgb(18, 13, 48);
     font-size: 500%;
+
+}
+.counter{
+    background-color: white;
 }
